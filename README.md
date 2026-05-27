@@ -8,12 +8,12 @@ Right now, I'm continuously learning and improving my skills to bridge the gap b
 
 My featured project is the **SkillBridge Platform**, a digital learning platform designed to provide self paced skill development and progress tracking for students.
 
-### 🌱 Current Focus:
+###  Current Focus:
 - UI/UX Design & Creative Layouts
 - Database Management
 - Foundational Web Development & Programming
 
-### ✨ Fun Facts & Interests:
+###  Fun Facts & Interests:
 - **Interests:** Creative Design, Technology, and Digital Systems
-- 🍰 Loves baking sweets and managing a small treats business in my free time
-- 🎯 Passionate about continuous learning and constant self improvement
+-  Loves baking sweets and managing a small treats business in my free time
+-  Passionate about continuous learning and constant self improvement
