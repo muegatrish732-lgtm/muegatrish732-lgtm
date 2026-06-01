@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Live Site: file:///C:/xampp/htdocs/index/index.html
-
 I'm Trish, an Information Technology student from Davao del Norte State College.
 
 I enjoy exploring the intersection of technology and creative design, focusing on building clean layouts and organizing data.
